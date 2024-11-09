@@ -1,24 +1,24 @@
 ![](i/gule2.png)
 
 <h1 align="center">Hi 👋, I'm Guluma Wakuma</h1>
-<h3 align="center">A joiner frontend and backend developer from Ethiopia</h3>
+<h3 align="center">A frontend and backend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulumawakuma&label=Profile%20views&color=0e75b6&style=flat" alt="gulumawakuma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/guluma wakuma" target="blank"><img src="https://img.shields.io/twitter/follow/guluma wakuma?logo=twitter&style=for-the-badge" alt="guluma wakuma" /></a> </p>
 
-- 🌱 I’m currently working on **JavaScript, Angular, Nodejs, ExpressJs, Java, Springboot, Framework**
+- 🌱 I’m currently working on **JavaScript,React, Angular, Nodejs, ExpressJs, Java, Springboot, Framework**
 
-- 🔭 I’m currently working on **Angular,Nodejs and Springboot**
+- 🔭 I’m currently working on **React, Angular,Nodejs and Springboot**
 
-- 🤝 I’m looking for help with **Angular, NodeJs and Springboot and machine learning based project**
+- 🤝 I’m looking for help with **React, Angular, NodeJs and Springboot and machine learning based project**
 
 - 👨‍💻 All of my projects are available at [Wait for a moment...](Wait for a moment...)
 
 - 📝 I regularly write articles on [I write personal and family life history](I write personal and family life history)
 
-- 💬 Ask me about ** JavaScript, python, Machine learning,Deep learning**
+- 💬 Ask me about ** JavaScript,Java, python, Machine learning,Deep learning**
 
 - 📫 How to reach me **gulumawakuma3@gmail.com and gulumawakuma70@gmail.com**
 
