@@ -81,6 +81,9 @@
 
 | Project | Stack | Link |
 |---------|-------|------|
+| Ora POS Inventory System | React, Node.js | Private |
+| Inisra | Swift, SwiftUI, React, Node.js | Private |
+
 
 ---
 
