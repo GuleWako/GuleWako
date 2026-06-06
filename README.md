@@ -106,7 +106,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guluma-wakuma/" target="_blank">
+  <a href="https://www.linkedin.com/in/guluma-wakuma-olansa/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/gulumawakuma" target="_blank">
