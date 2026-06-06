@@ -110,17 +110,23 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guluma-wakuma-olansa/" target="_blank">
+   <a href="https://www.linkedin.com/in/guluma-wakuma-olansa/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/gulumawakuma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="mailto:gulumawakuma3@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="40" width="40" />
+  </a>
+  <a href="https://t.me/gule_wako" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="40" width="40" />
+  </a>
+  <a href="https://wa.me/+251934437389" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="40" width="40" />
   </a>
   <a href="https://web.facebook.com/wako430" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://instagram.com/gulewako" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
