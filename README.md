@@ -92,12 +92,12 @@
 <!-- Official github-readme-stats.vercel.app is often down (403/rate limits). Use the fast mirror instead. -->
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GuleWako&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuleWako&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gulumawakuma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gulumawakuma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=GuleWako&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=gulumawakuma&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 ## 📝 What I Can Help With
